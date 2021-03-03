@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">demoPdf</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="info">Info</string>
+    <string name="intro_message">intro</string>
+    <string name="app_name_with_index">demo</string>
+</resources>
